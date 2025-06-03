@@ -9,9 +9,6 @@
 - 增加保活说明
 - 重大更新 cloudflared固定隧道token形式 在面板里需要设置为http://localhost:8081
 - 修复在alpine系统的运行错误
-- 以下是创建的免费容器节点订阅，可直接使用。
-- 全平台订阅地址:https://free.king361.cf/sub?ip=skk.moe&port=8443  (备用网址：https://free.889876.xyz/sub?ip=skk.moe&port=8443 ） 其中skk.moe与8443可以自行替换优选域名(或者优选ip)以及端口。
--  [在线订阅转换](https://sub.cfip.gay)。
 -  可自定义的自带优选订阅：https://add.king361.cf/?uuid=d342d11e-d424-4583-b36e-524ab1f0afa4&host=edgood.king361.cf&path=?ed2048
 - 下面是参数的定义，适合所有使用ws的cf cdn 节点
 - host：您的伪装域名。
@@ -34,7 +31,7 @@ Dockerfile文件仓库 [项目地址链接](https://github.com/mjjonone/mjj-dock
 
 ---
 
-游戏托管平台需要上传的文件要赋予权限777，除了`server.jar`，它的权限要设置为444。
+游戏托管平台需要上传的start.sh要赋予权限777，server.jar权限设置为444。
 
 ---
 
