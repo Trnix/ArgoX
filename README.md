@@ -1,4 +1,4 @@
-# 合格的mjj专用白嫖项目,必看说明，必看说明！
+## 合格的mjj专用白嫖项目,必看说明，必看说明！
 白嫖使人快乐，独乐乐不如众乐乐。如果您有任何问题，请随时提出Issues。
 ---
 
@@ -78,3 +78,6 @@ Minecraft相关的服务器(同时支持通过网址`/list`查看节点信息和
 - 变量的填写方法也可以参考f佬的说明。以下是说明链接。
 
 说明链接：[https://github.com/fscarmen2/Argo-X-Container-PaaS/blob/main/README.md](https://github.com/fscarmen2/Argo-X-Container-PaaS/blob/main/README.md)
+
+## 赞助和支持
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
