@@ -1,8 +1,6 @@
 ## 合格的mjj专用白嫖项目,必看说明，必看说明！
 白嫖使人快乐，独乐乐不如众乐乐。如果您有任何问题，请随时提出Issues。
 ---
-## 赞助和支持
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 
 更新说明
 - nezha cloudflared 更新到最新版本
